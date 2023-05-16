@@ -80,13 +80,13 @@ a:hover {
 }
 .profile{
     margin:0 auto;
-    max width : 70px;
+    max-width: 70px;
 }
 .profile__portrait{
     float: left;
     width:250px
-    margin-right: 40px;
-} 
+    margin-right;
+}
 .profile__portrait {
     float:left;
     width: 250px;
@@ -131,14 +131,14 @@ a:hover {
     background-color: lightgray;
 }
 .page-header__item-1{
-    width:30px
-    height:30px
+    width:30px;
+    height:30px;
 }
 *{
     box-sizing: border-box;
 }
 #grid-container{
-    display
+    display;
 }
 @media all and (max-width: 500px)
 {.grid{
@@ -153,7 +153,7 @@ a:hover {
 }
 @media all and (max-width:750px){
     .grid{
-        grid-gap: 10px:
+        grid-gap: 10px;
     }
 .grid__item:last-child{
   grid-column:auto / auto;
@@ -162,11 +162,10 @@ a:hover {
 h1{
     font-size: 22px;
 }
-}
+
 .button1:focus,
-.button1:hover,
-{
-    cursor: pointer;
+.button1:hover,{
+     cursor: pointer;
     opacity:0.8;
 }
 .button1,button {
@@ -184,7 +183,6 @@ h1{
     border:none;
     transition-duration:0.8s;
     transition-property:opacity;
-
 }
 button:hover,
 button:focus,
@@ -240,8 +238,4 @@ to {
 }
 .cloud-back {
     animation: 34s cloud-move-reverse infinite alternate linear;
-
-
-
-
-
+}

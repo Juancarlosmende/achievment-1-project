@@ -76,25 +76,21 @@ color: #2b2b2b;
 }
 
 .profile__portrait{
-float: left;
+float: center;
 }
 .page-footer{
 clear:both;
 }
 .profile{
-margin:0 auto;
-max-width : 70px;
+margin:100px;
+max-width : 470px;
 }
-.profile__portrait{
-float: left;
-width:250px;
-margin-right: 40px;
-} 
+
 .profile__portrait {
-float:left;
-width: 250px;
-margin-right: 40px;
-border-radius:50%;
+    float: left 100px;
+    width: 400px;
+    margin-left: 10px;
+    border-radius:50%;
 }
 .page-footer{
 clear:both;
@@ -129,7 +125,7 @@ padding: 20px;
 -webkit-box-flex: 1;
     -ms-flex-positive: 1;
         flex-grow: 1;
-text-align: right;
+text-align: center;
 }
 .navigation-list {
 list-style-type: none;
@@ -332,5 +328,6 @@ from {
         animation: 34s cloud-move-reverse infinite alternate linear;
 
 }
+
 
 
