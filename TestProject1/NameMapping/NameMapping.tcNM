@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{496D62DF-F4D6-4EF8-8D51-E269BEB5B032}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Code" Key="{878C5535-CD54-49C5-8089-02A92B5A8BA2}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Code" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndChrome_WidgetWin_1" Key="{F298883E-714F-4246-B9E5-F9837D088206}">
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Chrome_RenderWidgetHostHWND" Key="{B4929229-4C06-43A5-95CE-6225612055A1}">
+										<TypeInfo Item0="{2F7BA804-2B98-4396-B1C9-2271E180C276}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Chrome Legacy Window" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Code" Owner="{878C5535-CD54-49C5-8089-02A92B5A8BA2}">
+			<Child Name="wndChrome_WidgetWin_1" Owner="{F298883E-714F-4246-B9E5-F9837D088206}">
+				<Child Name="Chrome_RenderWidgetHostHWND" Owner="{B4929229-4C06-43A5-95CE-6225612055A1}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

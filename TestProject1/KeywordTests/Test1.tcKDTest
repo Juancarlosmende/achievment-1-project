@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{32436C5D-722B-420C-AAA6-7E58471DCC31}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Rotates the mouse wheel to %p1 over the &apos;%n&apos; object." Action="MouseWheel" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="9" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{5156EB31-13EC-472C-B819-9EC8D4E9E546}">
+				<Data Action="Click" TBlockIntType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Selected Text" DefVarType="0" VarType="8" ValueType="6" ValueValue="8.9" />
+						<Parameter Name="Selected Preferences" DefVarType="0" DefValueType="1" DefValueValue="-10" VarType="3" ValueType="1" ValueValue="-10">
+							<Values>
+								<Value Type="1" Value="-10" Text="spNone" />
+								<Value Type="1" Value="-11" Text="spNearestToCenter" />
+								<Value Type="1" Value="-12" Text="spLeftMost" />
+								<Value Type="1" Value="-13" Text="spRightMost" />
+								<Value Type="1" Value="-14" Text="spTopMost" />
+								<Value Type="1" Value="-15" Text="spBottomMost" />
+								<Value Type="1" Value="-16" Text="spLargest" />
+								<Value Type="1" Value="-17" Text="spSmallest" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{5156EB31-13EC-472C-B819-9EC8D4E9E546}">
+				<Data Action="Click" TBlockIntType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Selected Text" DefVarType="0" VarType="8" ValueType="6" ValueValue="298" />
+						<Parameter Name="Selected Preferences" DefVarType="0" DefValueType="1" DefValueValue="-10" VarType="3" ValueType="1" ValueValue="-10">
+							<Values>
+								<Value Type="1" Value="-10" Text="spNone" />
+								<Value Type="1" Value="-11" Text="spNearestToCenter" />
+								<Value Type="1" Value="-12" Text="spLeftMost" />
+								<Value Type="1" Value="-13" Text="spRightMost" />
+								<Value Type="1" Value="-14" Text="spTopMost" />
+								<Value Type="1" Value="-15" Text="spBottomMost" />
+								<Value Type="1" Value="-16" Text="spLargest" />
+								<Value Type="1" Value="-17" Text="spSmallest" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[BS][BS][BS][BS][BS][BS][BS][BS][BS]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="130" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="137" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="131" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="137" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{5156EB31-13EC-472C-B819-9EC8D4E9E546}">
+				<Data Action="DblClick" TBlockIntType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Selected Text" DefVarType="0" VarType="8" ValueType="6" ValueValue="31" />
+						<Parameter Name="Selected Preferences" DefVarType="0" DefValueType="1" DefValueValue="-10" VarType="3" ValueType="1" ValueValue="-10">
+							<Values>
+								<Value Type="1" Value="-10" Text="spNone" />
+								<Value Type="1" Value="-11" Text="spNearestToCenter" />
+								<Value Type="1" Value="-12" Text="spLeftMost" />
+								<Value Type="1" Value="-13" Text="spRightMost" />
+								<Value Type="1" Value="-14" Text="spTopMost" />
+								<Value Type="1" Value="-15" Text="spBottomMost" />
+								<Value Type="1" Value="-16" Text="spLargest" />
+								<Value Type="1" Value="-17" Text="spSmallest" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Rotates the mouse wheel to %p1 over the &apos;%n&apos; object." Action="MouseWheel" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="-34" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="23" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="582" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Rotates the mouse wheel to %p1 over the &apos;%n&apos; object." Action="MouseWheel" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="6" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags the &apos;%n&apos; object." Action="Drag" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="152" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="459" />
+						<Parameter Name="Param3" DefVarType="0" VarType="3" ValueType="1" ValueValue="7" />
+						<Parameter Name="Param4" DefVarType="0" VarType="3" ValueType="1" ValueValue="20" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Rotates the mouse wheel to %p1 over the &apos;%n&apos; object." Action="MouseWheel" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="2" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Hold][Win][PrtSc][Release]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="NameMapping.Sys;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Hold][Win][PrtSc][Release]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="NameMapping.Sys;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Rotates the mouse wheel to %p1 over the &apos;%n&apos; object." Action="MouseWheel" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="14" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="164" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="465" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Code.wndChrome_WidgetWin_1.Chrome_RenderWidgetHostHWND;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Hold][Win][PrtSc][Release]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="NameMapping.Sys;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{E69BFB9B-6CA8-4922-90E5-6FDA246B67CE}" />
+</Root>
